@@ -21,9 +21,9 @@ function setup() {
 
 function startMenu(){
     background(255, 0, 255)
-    textSize(20)
+    textSize(10)
     text('Right Click to start the game', 525, 30)
-    textSize(30)
+    textSize(10)
     text('1. Rocks will move across the screen', 50, 150)
     text('2. Make your character jump using the left mouse click to avoid the obstacles', 50, 200)
     text('you can double click for higher jumps when obstacles are close to each other', 80, 240)
